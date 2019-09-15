@@ -5,8 +5,8 @@ end
 
 def batch_badge_creator(name)
   name = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
+  coutner = 1 
   name.each do |name|
-    counter
     puts "Hello my name is #{name}"
   end
 end
