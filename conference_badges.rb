@@ -14,6 +14,6 @@ end
 
 def assign_rooms(array)
     assignment_list = []
-    array.each_with_index { |speaker, index| assignment_list << "Hello, #{speaker}! You'll be assigned to room #{index + 1}!"
+    array.each_with_index { |speaker, index| assignment_list << "Hello, #{speaker}! You'll be assigned to room #{index + 1}!"}
     return assignment_list
 end
