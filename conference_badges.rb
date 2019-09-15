@@ -3,3 +3,4 @@ def badge_maker(array)
   array.each do |array|
     puts "Hello my name is #{array}"
   end
+end
