@@ -14,4 +14,4 @@ end
 
 def assign_rooms(array)
   assignment_list = []
-  
+  array.each
